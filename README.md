@@ -14,3 +14,16 @@ Dataset: Sleep Health and Lifestyle Dataset
 Source: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/
 
 Target label: Sleep Disorder (None / Insomnia / Sleep Apnea)
+# 📚 Publication & Citation
+This project is part of the publication:
+
+“Classification of Sleep Disorders Using K-Nearest Neighbors with Lifestyle-Based Features and SMOTE”
+
+Available at: https://doi.org/10.1109/ICoICT66265.2025.11192909
+
+If you use this work, please cite it as: 
+> **A. Rahmatulloh, Y. I. Hasari, E. Haerani, I. Darmawan, R. Gunawan, and R. Rizal**,  
+> *"Classification of Sleep Disorders Based on Lifestyle using K-Nearest Neighbors Algorithm,"*  
+> 2025 International Conference on Information and Communication Technology (ICoICT),  
+> Bandung, Indonesia, 2025, pp. 1–6.  
+> doi: [10.1109/ICoICT66265.2025.11192909]
